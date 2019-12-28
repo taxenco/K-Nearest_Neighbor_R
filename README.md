@@ -93,7 +93,7 @@ The results of the KNN were pretty good, taking into the consideration that K wa
 # References
 
 * 1 - https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-* 2 - MSc Data science notes, Salford University. Euclidean Distance
+* 2 - MSc Data science notes, Salford University. K-nearest Neighbours
 * 3 - https://cran.r-project.org/web/packages/class/class.pdf
 
 # Built With
